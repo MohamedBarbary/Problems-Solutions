@@ -1,0 +1,5 @@
+1- start with the out interface 
+ wHY?: (to draw a picture about your project in head )
+2- under every element in output write main atributes (only main main )
+3- choose a center of your project and start with it 
+4-  (has a center now!) repeat (1,2,3)
